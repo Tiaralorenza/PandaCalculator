@@ -1,0 +1,4 @@
+#Sat Mar 23 19:31:31 ICT 2019
+base.0=D\:\\Semester 6\\MataKULIAH\\MyCalculator\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex
